@@ -1,7 +1,7 @@
 # game-of-life
 Implementation of Conway's "Game of Life" written in Java
 
-This repo contains the code for a an implementation of Conway's "Game of Life," a simple game in which users create structures of cells that interact according to pre-determined rules.
+This repo contains the code for an implementation of Conway's "Game of Life," a simple game in which users create structures of cells that interact according to pre-determined rules.
 
 # Overview
 
